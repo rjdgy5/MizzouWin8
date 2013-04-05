@@ -8,6 +8,9 @@
         <ResourceDictionary>
             <ResourceDictionary.MergedDictionaries>
 
+                <!-- http://api.espn.com/sports/basketball/mens-college-basketball/teams/GET?apikey=mngjg39bu9hv7excnxssuhbz -->
+                <!-- http://developer.espn.com/docs/teams#parameters -->
+                
                 <!-- 
                     Styles that define common aspects of the platform look and feel
                     Required by Visual Studio project and item templates
